@@ -1,7 +1,7 @@
 # tropical_gardens
-##inspired by the PermaChade Page.. WARNING. NO CODE... for agcb noteTaking only
+## inspired by the PermaChade Page.. WARNING. NO CODE... for agcb noteTaking only
 
-##Here lies a list of tropical plants that have come up in discussions with friends.
+## Here lies a list of tropical plants that have come up in discussions with friends.
 
 * dalbergia_nigra
 * caesalpinia_echinata
